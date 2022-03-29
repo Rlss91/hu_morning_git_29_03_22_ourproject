@@ -32,3 +32,10 @@ to commit we will use
 git add .
 git commit -m "msg"
 ```
+
+````
+```
+git add .
+git commit -m "msg"
+```
+````
