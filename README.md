@@ -23,3 +23,5 @@ _italic text_
 **bold text and inside the bold text we have _italic_**
 
 **_all bold and italic_**
+
+> some code
