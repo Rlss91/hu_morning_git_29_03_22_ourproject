@@ -25,3 +25,10 @@ _italic text_
 **_all bold and italic_**
 
 > some code
+
+to commit we will use
+
+```
+git add .
+git commit -m "msg"
+```
